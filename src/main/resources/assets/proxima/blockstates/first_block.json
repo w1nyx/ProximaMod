@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "proxima:block/first_block" }
+    }
+}
